@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyCodeExample", "LegacyCodeExample\LegacyCodeExample.csproj", "{2079FAEF-3C4A-4F9E-828F-069512C1B584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyCodeExample.Core", "LegacyCodeExample.Core\LegacyCodeExample.Core.csproj", "{8315D6CF-8BAF-43B9-9840-82B5208C8031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2079FAEF-3C4A-4F9E-828F-069512C1B584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2079FAEF-3C4A-4F9E-828F-069512C1B584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2079FAEF-3C4A-4F9E-828F-069512C1B584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2079FAEF-3C4A-4F9E-828F-069512C1B584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8315D6CF-8BAF-43B9-9840-82B5208C8031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8315D6CF-8BAF-43B9-9840-82B5208C8031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8315D6CF-8BAF-43B9-9840-82B5208C8031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8315D6CF-8BAF-43B9-9840-82B5208C8031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
